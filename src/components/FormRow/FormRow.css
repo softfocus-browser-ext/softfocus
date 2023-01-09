@@ -1,0 +1,21 @@
+.formRow {
+  display: flex;
+  align-items: center;
+  height: 1.5rem;
+  margin: 1rem 0 0 1rem;
+}
+
+.formRow label {
+  font-weight: 600;
+  text-transform: capitalize;
+  width: 8rem;
+}
+
+.formRow input {
+  width: 200px;
+  margin-right: 2rem;
+}
+
+.formRow .displayValue {
+  width: 3rem;
+}

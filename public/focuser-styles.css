@@ -1,0 +1,15 @@
+.sf-focuser {
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 200px;
+  z-index: 99999;
+}
+
+#sf-top-focuser {
+  top: 0;
+}
+
+#sf-bottom-focuser {
+  bottom: 0;
+}
