@@ -1,8 +1,8 @@
-SoftFocus adds an adjustable overlay over your web browser window.
+SoftFocus adds an adjustable overlay over your web browser tab to help people who suffer from screen intolerance.
 
-It is designed to help people recovering from brain injuries to browse the internet by lessening visuals that may trigger headaches, dizziness, nausea, or other discomfort.
+The overlay can help by reducing visuals such as peripheral motion or contrast that may trigger headaches, dizziness, or other symptoms of screen intolerance.
 
-Overlay adjustments:
+Overlay adjustments include:
 
 * Height
 * Color
@@ -10,16 +10,39 @@ Overlay adjustments:
 * Background blur
 * Edge blur
 
+
+Compatible Browsers
+===================
+
+SoftFocus should work on all Chromium based web browsers, including but not limited to:
+
+* Google Chrome
+* Microsoft Edge
+* Brave
+* Vivaldi
+* Opera
+* Epic Privacy Browser
+* SRWare Iron
+* Ungoogled Chromium
+* Kiwi
+* Yandex
+* Comodo Dragon
+* Avast
+
+
 Disclaimers
+===========
 
 * This software does not guarantee to prevent or cure or any discomfort while browsing the internet.
 * This software is not intended to be a substitute or replacement for medication or therapy.
-* Seek professional medical help if you suffer from a traumatic head injury or are experiencing headaches, dizziness, nausea, migraines, or any other pain or discomfort.
+* Seek professional medical help if you suffer from a brain injury, mental disability, or are experiencing headaches, dizziness, nausea, migraines, or any other pain or discomfort.
 * Use this software at your own risk.
 * Immediately discontinue use of this software if your symptoms get worse.
 * This software is provided as-is and without warranty as to its features, functionality, performance, or integrity.
 
+
 Open Source & Contributing
+==========================
 
 This software is licensed under The MIT License (MIT): https://mit-license.org/
 
